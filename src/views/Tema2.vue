@@ -2,147 +2,136 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
+    .titulo-principal.color-primario
+      .titulo-principal__numero
+        span(style="color: white") 2
+      h1 Sector solidario y su clasificación
+
+    .d-flex.justify-content-between.align-items-center.mb-5
+      img(src="@/assets/curso/tema2/decorador1.svg" style="max-width: 36px")
+      p.mb-0.ps-3 El sector solidario en Colombia, como lo afirma Dávila Ladrón de Guevara, R. (s.f.): 
+      img.d-none.d-lg-flex(src="@/assets/curso/tema2/decorador_large_1.svg" style="max-width: 536px")
     
-    .titulo-principal
-      .h3 Producción Audiovisual
+    .bloque-texto-c.bloque-texto_t_2.p-4.col-12.col-md-9.mx-auto(style="background-color: #B6F8F2").mb-5
+      i.fas.fa-quote-right(style="color: white")
+      p.py-3.px-5 Se remonta desde mediados del <b>siglo XIX</b>, donde se crean las primeras asociaciones mutuales cuyo origen fue solucionar las necesidades sociales, a partir del año 1931 con La ley 132, que hace referencia a la promoción y fomento de las cooperativas de producción y consumo, se registra la primera normativa que regula el sector.  
+
+    .d-flex
+      img(src="@/assets/curso/tema2/decorador2.svg" style="max-width: 36px").me-3.me-md-5
+      p A partir de esta ley nacen otras que buscan promover y fortalecer el sector solidario, entre las que se encuentra la Ley 454 de 1998, que establece el marco conceptual que regula la economía solidaria en Colombia. 
+
+    .d-flex.ps-0.ps-md-5.ms-0.ms-md-4.justify-content-between.mb-5
+      p.ps-3 Esta Ley 454 de 1998, en su artículo 2, define la economía solidaria como:
+      img.d-none.d-lg-flex(src="@/assets/curso/tema2/decorador_large_2.svg" style="max-width: 536px")
     
-    #t_2_1.titulo-segundo
-      .h4 2.1 Infografía Animada
+    .bloque-texto-c.bloque-texto_t_2.p-4.col-12.col-md-9.mx-auto(style="background-color: #CBF09F").mb-5
+      i.fas.fa-quote-right(style="color: white")
+      p.py-3.px-5 El sistema socioeconómico, cultural y ambiental conformado por el conjunto de fuerzas sociales organizadas en formas asociativas identificadas por prácticas autogestionarias solidarias, democráticas y humanistas, sin ánimo de lucro para el desarrollo integral del ser humano como sujeto, actor y fin de la economía.
     
-    p.mb-4 Propuesta infográfica en animación que refuerce un tema y matice conceptos dados de manera creativa y con intención pedagógica.
+    .container-bg-color.mb-5
+      p.mb-0.py-2 Con esta normativa se genera un aporte sustancial a la estructura conceptual, ideológica y de funcionamiento de este sistema socioeconómico como una alternativa de asociatividad empresarial.
+      img.d-none.d-lg-flex(src="@/assets/curso/tema2/decorador_large_3.svg" style="max-width: 272px")
 
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2cnKTwQ85fg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-    #t_2_2.titulo-segundo
-      .h4 2.2 Video Motion
-
-    p.mb-4 Animación digital que crea la ilusión de movimiento mediante imágenes, fotografías, títulos, colores y diseños.
-
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/E7-BaX6ox9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-    #t_2_3.titulo-segundo
-      .h4 2.3 Motion + Presentador
-
-    p.mb-4 Es el uso locutor + acompañamiento de imágenes como fondo, el estilo tiene una mezcla entre imagen viva y recursos gráficos vectoriales  se usa cuando un material tiene información de datos numéricos o gráficos de valores. 
-
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Ky73iaXuuTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-    #t_2_4.titulo-segundo
-      .h4 2.4 Animación 2D
-
-    p.mb-4 Es el uso locutor + acompañamiento de imágenes como fondo, el estilo tiene una mezcla entre imagen viva y recursos gráficos vectoriales  se usa cuando un material tiene información de datos numéricos o gráficos de valores. 
-
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/3b8VctSm558" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-    #t_2_5.titulo-segundo
-      .h4 2.5 Video interactivo
-
-    p.mb-4 Visualización de videos con diferentes tipos de preguntas o anotaciones.
-
-    figure.mb-5
-      .video
-        iframe(src="https://vizia.co/videos/94d994c5fe93f1b08a60eb/embed" allowtransparency="true" frameborder="0" scrolling="no" width="640" height="390")
-
-    #t_2_6.titulo-segundo
-      .h4 2.6 Infografías
-
-    p.mb-4 Es una herramienta de comunicación de alta precisión, el cual tiene una narrativa gráfica con un texto corto acompañada de elementos visuales que tienen como intención de captar rápidamente la atención del lector. 
-
-    figure.mb-5
-      img(src='@/assets/curso/infografia-1.jpg', alt='Infografía Fundamentos del Servicio de Interpretación')
-      figcaption Fundamentos del Servicio de Interpretación
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Fundamentos del Servicio de Interpretación
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/fundamentos_del_servicio_de_Interpretacion.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
+    .d-flex.mb-5
+      img(src="@/assets/curso/tema2/decorador3.svg" style="max-width: 36px").me-3.me-md-5
+      .text-decorator_t_2
+        p.mb-0 Así mismo, los fines de la economía solidaria se asimilan en el mundo empresarial como los propósitos fijados en el direccionamiento estratégico de estas organizaciones que afianzan una vez más esta filosofía corporativa que enaltece, diferencia y aporta un ingrediente diferenciador frente a otro tipo de formas jurídicas empresariales, que sin duda potencian y avivan esta alternativa sostenible y sustentable de hacer negocios; estos fines establecidos en la Ley 454 de 1998 en su artículo 5, son los siguientes: 
     
-    figure.mb-5
-      img(src='@/assets/curso/infografia-2.jpg', alt='Infografía Plan de Negocios')
-      figcaption Plan de Negocios
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Plan de Negocios
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/plan_de_negocios.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
+    .d-flex
+      img(src="@/assets/curso/introduccion/punto.svg" style="max-width: 10px").me-3
+      p.fw-bold.mb-0 Figura 4
+    .d-flex.justify-content-between.align-items-start.position-relative.mb-5
+      p.mb-0.ps-4 <em>Fines de la Ley 454 de 1998</em>
     
-    figure.mb-5
-      img(src='@/assets/curso/infografia-3.jpg', alt='Infografía Cobertura poblacional')
-      figcaption Cobertura poblacional
+    img(src="@/assets/curso/tema2/img-1.png").mb-5
+  
+    .d-flex.col-12.col-md-11.align-items-center.mb-4
+      img(src="@/assets/curso/introduccion/decorador.svg" style="max-width: 10px").mx-3.mx-md-4
+      .text-bg 
+        p Con la identificación de los fines, seguramente se logra reconocer que en el sector solidario prevalecen los intereses comunes sobre el interés particular y de ahí que estos se convierten en una característica fundamental para las empresas sin ánimo de lucro. 
+    .text-bg-right.col-12.col-md-10.ms-auto.mb-5
+      p Por consiguiente, el marco conceptual establecido por la norma y los fines del sector solidario en Colombia agrupan las organizaciones de carácter asociativo y solidario, sin ánimo de lucro, orientadas a desarrollar acciones en beneficio del bien común, la satisfacción de las necesidades humanas y el desarrollo integral de sus asociados.
 
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Cobertura poblacional
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/cobertura_poblacional.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
+    .d-flex.flex-wrap.flex-md-nowrap.mb-5
+      p.order-2.order-md-1.pe-4 Las organizaciones solidarias se agrupan en dos grandes grupos: el de las organizaciones de economía solidaria y el de las organizaciones solidarias de desarrollo. En el siguiente recurso podrá profundizar su conocimiento sobre cada una de ellas:
+      img.order-1.order-md-2.mb-3(src="@/assets/curso/tema2/decorador4.svg" style="max-width: 132px")
+    .d-flex.flex-wrap.justify-content-center.mb-5.mb-md-0
+      div.indicador__container
+        .indicador--click(v-if="mostrarIndicador")
+        img(src="@/assets/curso/tema2/img-modal-1.png" style="max-width: 302px" @click="modal1 = true" @mouseover="mostrarIndicador = false").me-0.ms-md-3.me-lg-5.img-modal
+      img(src="@/assets/curso/tema2/img-modal-2.png" style="max-width: 302px" @click="modal2 = true").ms-0.ms-md-3.ms-lg-5.img-modal
+    .d-flex.justify-content-between
+      img(src="@/assets/curso/tema2/decorador5.svg" style="max-width: 84px")
+      img(src="@/assets/curso/tema2/decorador6.svg" style="max-width: 84px")
     
-    figure.mb-5
-      img(src='@/assets/curso/infografia-4.jpg', alt='Infografía Historia de las microfinanzas: Mohammad Yunus')
-      figcaption Historia de las microfinanzas: Mohammad Yunus
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Historia de las microfinanzas: Mohammad Yunus
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/historia_de_las_microfinanzas_mohammad_yunus.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-    
-    figure.mb-5
-      img(src='@/assets/curso/infografia-5.jpg', alt='Infografía Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica')
-      figcaption Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica
-
-    .tarjeta.tarjeta--morada.p-3.mb-5
-      .row.justify-content-around.align-items-center
-        .col
-          .row.justify-content-between.align-items-center
-            .col.mb-3.mb-sm-0
-              .h5.mb-0 Psicología de la moda: sexualidad, ropa mágica, ropa malévola y ropa neurótica
-              p Formato PDF
-            .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/psicologia_de_la_moda.pdf')" target="_blank")
-                span Descargar
-                i.fas.fa-file-download
-
+    ModalA(:abrir-modal.sync="modal2").modal_t_2-1
+      .container-modal(style="border-color: #A6E65A")
+        .title-modal(style="background-color: #A6E65A")
+          p.fw-bold Organizaciones de <br> economía solidaria
+        .content-modal.px-3.px-md-5
+          p.mb-4 La Unidad Administrativa Especial de Organizaciones Solidarias del gobierno colombiano, las define como aquellas formas del emprendimiento solidario sin ánimo de lucro, que, empleando bienes y servicios privados y gubernamentales, construyen y prestan bienes y servicios para el beneficio social. 
+            br
+            br
+            sapn.fw-bold Su característica principal es ejercer la solidaridad de adentro hacia afuera, dirigiendo su accionar a terceros, comunidades y la sociedad, prevaleciendo el espíritu altruista de sus miembros.
+          p Formas jurídicas de las organizaciones solidarias de desarrollo:
+          .d-flex.flex-wrap
+            .col-12.col-md-4
+              p - Fundaciones	<br>
+                |- Corporaciones y asociaciones <br>
+                |- Acción comunal
+            .col-12.col-md-4
+              p - Voluntariado <br>
+                |- Organizaciones de voluntariado <br>
+                |- Entidades con acción voluntaria
+            p.px-3.px-md-5.py-3.py-md-4(style="background-color: #A6E65A") Es importante resaltar que tanto para las organizaciones de economía solidaria como para las organizaciones solidarias de desarrollo existe una normativa que reglamenta los requisitos para su constitución y funcionamiento de este tipo de entidades, así como las instituciones que ejercen su inspección, vigilancia y control
+    ModalA(:abrir-modal.sync="modal1").modal_t_2-1
+      .container-modal
+        .title-modal
+          p.fw-bold Organizaciones de <br> economía solidaria
+        .content-modal.px-3.px-md-5
+          p.mb-4 La Unidad Administrativa Especial de Organizaciones Solidarias del gobierno colombiano, las define como aquellas que contemplan en su objeto social la realización de una actividad socioeconómica para satisfacer las necesidades de sus asociados y el desarrollo de obras de servicio comunitario. 
+            br
+            br
+            | Así mismo, la ley 454 de 1998, en su artículo 6, establece como características de las organizaciones de economía solidaria, las siguientes
+          .content-dots-step
+            .item-dots-step.me-3.me-md-4.mb-3.mb-md-0(:class="dotSelectModal == 1 ? 'dot-select-modal' : ''" @click="dotSelectModal = 1") 1
+            .item-dots-step.indicador__container.me-3.me-md-4.mb-3.mb-md-0(:class="dotSelectModal == 2 ? 'dot-select-modal' : ''" @mouseover="mostrarIndicadorModal = false" @click="dotSelectModal = 2") 2
+              .indicador--click(v-if="mostrarIndicadorModal")
+            .item-dots-step.me-3.me-md-4.mb-3.mb-md-0(:class="dotSelectModal == 3 ? 'dot-select-modal' : ''" @click="dotSelectModal = 3") 3
+            .item-dots-step.me-3.me-md-4.mb-3.mb-md-0(:class="dotSelectModal == 4 ? 'dot-select-modal' : ''" @click="dotSelectModal = 4") 4
+            .item-dots-step.me-3.me-md-4.mb-3.mb-md-0(:class="dotSelectModal == 5 ? 'dot-select-modal' : ''" @click="dotSelectModal = 5") 5
+            .item-dots-step.me-3.me-md-4.mb-3.mb-md-0(:class="dotSelectModal == 6 ? 'dot-select-modal' : ''" @click="dotSelectModal = 6") 6
+          .data-dot-select.p-4.p-md-5.col-12.col-md-7.mx-auto
+            p.mb-0(v-if="dotSelectModal == 1") Estar organizadas como empresa que contemple en su objeto social, el ejercicio de una actividad socioeconómica, tendiente a satisfacer necesidades de sus asociados y el desarrollo de obras de servicio comunitario.
+            p.mb-0(v-if="dotSelectModal == 2") Tener establecido un vínculo asociativo, fundado en los principios y fines contemplados en la presente Ley
+            p.mb-0(v-if="dotSelectModal == 3") Tener incluido en sus estatutos o reglas básicas de funcionamiento la ausencia de ánimo de lucro, movida por la solidaridad, el servicio social o comunitario.
+            p.mb-0(v-if="dotSelectModal == 4") Garantizar la igualdad de derechos y obligaciones de sus miembros sin consideración a sus aportes.
+            p.mb-0(v-if="dotSelectModal == 5") Establecer en sus estatutos un monto mínimo de aportes sociales no reducibles, debidamente pagados durante su existencia.
+            p.mb-0(v-if="dotSelectModal == 6") Integrarse social y económicamente, sin perjuicio de sus vínculos con otras entidades sin ánimo de lucro que tengan por fin promover el desarrollo integral del ser humano.
+          p Sus formas jurídicas se clasifican en:
+          .d-flex.flex-wrap
+            .col-12.col-md-4
+              p - Cooperativas especializadas <br>
+                |- Cooperativas integrales <br>
+                |- Cooperativas multiactivas
+            .col-12.col-md-4
+              p - Precooperativas <br>
+                |- Cooperativas de trabajo asociado <br>
+                |- Fondos de empleados <br>
+            .col-12.col-md-4
+              p - Asociaciones mutuales <br>
+                | -Entidades auxiliares de la economía solidaria
 </template>
 
 <script>
 export default {
   name: 'Tema2',
   data: () => ({
-    // variables de vue
+    modal1: false,
+    modal2: false,
+    mostrarIndicador: true,
+    mostrarIndicadorModal: true,
+    dotSelectModal: 1,
   }),
   mounted() {
     this.$nextTick(() => {
@@ -155,4 +144,147 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.bloque-texto_t_2
+  &::after
+    background-color: white !important
+.container-bg-color
+  position: relative
+  display: flex
+  p
+    position: relative
+    z-index: 1
+  &::before
+    content: ''
+    position: absolute
+    background-color: #CBF09F
+    width: 40%
+    height: 100%
+    top: 0
+    left: 0
+    z-index: 0
+.text-decorator_t_2
+  position: relative
+  p
+    position: relative
+    z-index: 1
+  &::after
+    content: ''
+    position: absolute
+    background-color: #CBF09F
+    bottom: 0
+    right: 0
+    z-index: 0
+    width: 30%
+    height: 60%
+.text-bg
+  position: relative
+  display: flex
+  align-items: center
+  p
+    position: relative
+    z-index: 1
+    margin-bottom: 0
+    padding-top: 1rem
+    margin-bottom: 1rem
+    padding-left: 1rem
+  &::after
+    content: ''
+    position: absolute
+    background-color: #D9E0E1
+    top: 0
+    left: 0
+    width: 35%
+    height: 100%
+.text-bg-right
+  position: relative
+  display: flex
+  align-items: center
+  p
+    position: relative
+    z-index: 1
+    margin-bottom: 0
+    padding-top: 1rem
+    margin-bottom: 1rem
+  &::after
+    content: ''
+    position: absolute
+    background-color: #D9E0E1
+    top: 0
+    right: 0
+    width: 35%
+    height: 100%
+.img-modal
+  transition: all ease .5s
+  cursor: pointer
+  &:hover
+    transform: scale(1.1)
+.modal_t_2-1
+  .modal-a__content
+    padding: 3rem 1rem !important
+.container-modal
+  border: 5px solid #5BD9CE
+  border-radius: 25px
+  .title-modal
+    margin-right: auto
+    margin-left: auto
+    background-color: #5BD9CE
+    max-width: 422px
+    height: 82px
+    display: flex
+    justify-content: center
+    align-items: center
+    border-bottom-left-radius: 14px
+    border-bottom-right-radius: 14px
+    margin-bottom: 2rem
+    p
+      font-size: 23px
+      margin-bottom: 0
+      line-height: 1.5rem
+  @media (max-width: 768px)
+    .title-modal
+      border-top-right-radius: 14px
+      border-top-left-radius: 14px
+  .content-modal
+    .content-dots-step
+      display: flex
+      flex-wrap: wrap
+      justify-content: center
+      .item-dots-step
+        cursor: pointer
+        height: 59px
+        width: 59px
+        border-radius: 50%
+        background-color: #00A3BE
+        color: white
+        font-size: 30px
+        display: flex
+        align-items: center
+        justify-content: center
+        &:hover
+          position: relative
+          background-color: #491079
+      .dot-select-modal
+        position: relative
+        background-color: #491079
+        &::before
+          content: ''
+          position: absolute
+          bottom: -20px
+          height: 0
+          width: 0
+          border-bottom: 20px solid #5BD9CE
+          border-top: 20px solid transparent
+          border-left: 56px solid transparent
+          border-right: 56px solid transparent
+      @media (max-width: 768px)
+        .dot-select-modal
+          &::before
+            display: none
+    .data-dot-select
+      min-height: 192px
+      background-color: #5BD9CE
+      border-radius: 18px
+      margin-top: 19px
+      margin-bottom: 2rem
+</style>

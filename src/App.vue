@@ -28,4 +28,8 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.titulo-principal
+  .titulo-principal__numero
+    background-color: #32D9CB
+</style>
