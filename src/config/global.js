@@ -24,7 +24,7 @@ export default {
         icono: 'far fa-file-alt',
         numero: '1',
         titulo:
-          'Organizaciones de economía solidaria en Colombia y sectoresonómicos',
+          'Organizaciones de economía solidaria en Colombia y sectores económicos',
         desarrolloContenidos: true,
       },
       {
@@ -32,6 +32,20 @@ export default {
         icono: 'far fa-file-alt',
         numero: '2',
         titulo: 'Sector solidario y su clasificación',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema3',
+        icono: 'far fa-file-alt',
+        numero: '3',
+        titulo: 'Cadenas productivas',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Principios y fines de la economía solidaria',
         desarrolloContenidos: true,
       },
     ],
@@ -77,123 +91,106 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Bair, J. (2009). <em>Global commodity chains. Genealogy and review. In Bair, Jennifer, ed. Frontiers of commodity chains research.</em> Palo Alto, CA: Stanford University Press.',
+    },
+    {
+      referencia:
+        'Coraggio, J., Arancibia, M. & Deux, M. (2010). <em>Guía para el mapeo y relevamiento de la economía popular solidaria en latinoamérica y caribe</em> (Primera Edición, Vol. 1).',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://base.socioeco.org/docs/gu_a_para_mapeo_y_relevamiento_eps_en_lac.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Dávila Ladrón de Guevara, R. (s.f.). <em>Características de la economía solidaria en Colombia. Colombia:</em> CIRIEC España.',
+    },
+    {
+      referencia: 'Definición.de. (s.f.). <em>Asociación.</em>',
+      link: 'https://definicion.de/asociacion/',
+    },
+    {
+      referencia:
+        'DNP. (2017). <em>Cadenas productivas industriales, estructura, comercio internacional y prospectiva 2002-2017.</em>',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://colaboracion.dnp.gov.co/CDT/Prensa/Cadenas-Productivas-Industriales.pdf',
+    },
+    {
+      referencia: 'Economipedia. (2021). <em>Actividad económica.</em>',
+      link: 'https://economipedia.com/definiciones/actividad-economica.html',
     },
     {
       referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
+        'Ley 79 de 1988. Por la cual se actualiza la Legislación Cooperativa. Diciembre 23 de 1988. D.O. No. 38.648',
     },
     {
       referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Ley 454 de 1998. Agosto 6 de 1998. Por la cual se determina el marco conceptual que regula la economía solidaria, se transforma el Departamento Administrativo Nacional de Cooperativas en el Departamento Administrativo Nacional de la Economía Solidaria, se crea la Superintendencia de la Economía Solidaria, se crea el Fondo de Garantías para las Cooperativas Financieras y de Ahorro y Crédito, se dictan normas sobre la actividad financiera de las entidades de naturaleza cooperativa y se expiden otras disposiciones. D.O. No. 43.357',
+    },
+    {
+      referencia:
+        'Organización de las Naciones Unidas. (s.f.). <em>Objetivos de Desarrollo Sostenible.</em>',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/',
     },
     {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
+      referencia: 'Real Academia Española. (2021). <em>Asociado.</em>',
+      link: 'https://dle.rae.es/asociado',
     },
     {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+      referencia: 'Significados. (2021). <em>Valores humanos.</em>',
+      link: 'https://www.significados.com/valores-humanos/',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Actividad económica',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'Es toda aquella forma mediante la que se produce, se intermedia y/o se vende un bien o servicio destinado a satisfacer una necesidad o deseo.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Asociado',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Dicho de una persona: Que acompaña a otra en alguna comisión o encargo.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Asociación',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'Asociación es la acción y efecto de asociar o asociarse (unir una persona a otra para que colabore en algún trabajo, juntar una cosa con otra para un mismo fin, establecer una relación entre cosas o personas.',
     },
     {
-      termino: '<em>Áectores</em>',
+      termino: 'Economía colidaria',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'Sistema socioeconómico, cultural y ambiental conformado por el conjunto de fuerzas sociales organizadas en formas asociativas identificadas por prácticas autogestionarias solidarias, democráticas y humanistas, sin ánimo de lucro para el desarrollo integral del ser humano como sujeto, actor y fin de la economía.',
     },
     {
-      termino: 'Moda',
+      termino: 'Objetivos de Desarrollo Sostenible (ODS)',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'Constituyen un llamamiento universal a la acción para poner fin a la pobreza, proteger el planeta y mejorar las vidas y las perspectivas de las personas en todo el mundo.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Principios',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'Es una base de ideales, fundamentos, reglas y/o políticas de la cual nacen las ideologías, teorías, doctrinas, religiones y ciencias.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Valores humanos',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
-    },
-    {
-      termino: 'Tipología',
-      significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
-    },
-    {
-      termino: 'Bidimensional',
-      significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'Conjunto de virtudes que posee una persona u organización, que determinan el comportamiento e interacción con otros individuos y el espacio.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Ley 454 de 1998 [Congreso de Colombia]. Por la cual se determina el marco conceptual que regula la economía solidaria, se transforma el Departamento Administrativo Nacional de Cooperativas en el Departamento Nacional de la Economía Solidaria, se crea la Superintendencia de la Economía Solidaria, se crea el Fondo de Garantías para las Cooperativas Financieras y de Ahorro y Crédito, se dictan normas sobre la actividad financiera de las entidades de naturaleza cooperativa y se expiden otras disposiciones. Agosto 4 de 1998.',
+      tipo: 'Ley',
+      link:
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma_pdf.php?i=3433',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'DNP. (2017). <em>Cadenas productivas industriales, estructura, comercio internacional y prospectiva 2002-2017.</em>',
+      tipo: 'Libro',
+      link:
+        'https://colaboracion.dnp.gov.co/CDT/Prensa/Cadenas-Productivas-Industriales.pdf',
     },
     {
       texto:

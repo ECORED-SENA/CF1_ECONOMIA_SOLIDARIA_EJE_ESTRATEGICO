@@ -5,7 +5,7 @@
     .titulo-principal.color-primario
       .titulo-principal__numero
         span(style="color: white") 1
-      h1 Organizaciones de economía solidaria en Colombia y sectoresonómicos
+      h1 Organizaciones de economía solidaria en Colombia y sectores económicos
 
     .container-img-text-decorador.mb-5
       img(src="@/assets/curso/tema1/img-decorador_2.svg" style="width: 39px").mx-3.mx-md-4
