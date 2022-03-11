@@ -32,4 +32,14 @@ export default {
 .titulo-principal
   .titulo-principal__numero
     background-color: #32D9CB
+.banner-principal__componente
+  h1
+    color: black !important
+.banner-principal__descripcion
+  p
+    color: black !important
+.banner-principal__row
+  min-height: 507px
+.banner-interno__fondo
+  background-image: url(assets/curso/fondo_temas.png) !important
 </style>
