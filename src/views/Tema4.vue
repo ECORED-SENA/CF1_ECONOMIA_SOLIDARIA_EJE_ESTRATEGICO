@@ -10,7 +10,7 @@
     .d-flex.pt-5.mb-5
       img(src="@/assets/curso/introduccion/decorador.svg" style="max-width: 10px").mx-3.mx-md-4.d-flex
       .text-bg-rl
-        p.ps-2.ps-md-4 Es decir, que una empresa constituida como organización de economía solidaria en cualquiera de sus formas jurídicas, está facultada para desarrollar una, dos o más actividades económicas en beneficio de sus asociados y de la comunidad en general, donde prevalece el interés común, cumpliéndose su carácter de empresa sin ánimo de lucro; de tal forma que, según su actividad económica se podrá identificar el sector económico y por ende, la cadena productiva que desarrollará al interior de su propia gestión empresarial. 
+        p.ps-2.ps-md-4 Existen ejemplos muy exitosos de organizaciones de economía solidaria y en gran parte obedece a que sus asociados cumplen a cabalidad con los valores, principios y fines de la economía solidaria, establecidos por la Ley 454 de 1998 y que confluyen en la identidad de estas organizaciones que marcan la diferencia frente a las empresas con ánimo de lucro. Sabiendo esto, a continuación, se presentan los valores de la economía solidaria.
 
     .row.mb-5
       .col-sm-6.col-lg-3.mb-4.tg-flip-t-4
@@ -20,7 +20,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema4/img_t_4-1.png')})`}" style="background-repeat: no-repeat; background-size: auto; background-color: #AFAFAF")
             .tarjeta-flip__contenido.p-3.p-md-4(style="background-color: #AFAFAF")
               h3 Solidaridad
-              p entre dos o más personas que padecen una necesidad o calamidad y que unen sus fuerzas para subsanar esta dificultad.
+              p Ayuda entre dos o más personas que padecen una necesidad o calamidad y que unen sus fuerzas para subsanar esta dificultad.
 
       .col-sm-6.col-lg-3.mb-4.tg-flip-t-4
         .tarjeta.tarjeta-flip.color-primario(@mouseover="indicadorTarjetaFlip = false")
@@ -106,12 +106,12 @@
     .d-flex.mb-5
       img(src="@/assets/curso/introduccion/decorador.svg" style="max-width: 10px").mx-3.mx-md-4
       .text-bg-left
-        p.ps-2.ps-md-4 Es decir, que una empresa constituida como organización de economía solidaria en cualquiera de sus formas jurídicas, está facultada para desarrollar una, dos o más actividades económicas en beneficio de sus asociados y de la comunidad en general, donde prevalece el interés común, cumpliéndose su carácter de empresa sin ánimo de lucro; de tal forma que, según su actividad económica se podrá identificar el sector económico y por ende, la cadena productiva que desarrollará al interior de su propia gestión empresarial. 
+        p.ps-2.ps-md-4 La práctica permanente y conjunta de la identidad corporativa en la gestión de estas formas asociativas, conlleva a que los asociados apropien y apliquen estos ideales en sus actuaciones que incluso pueden trasladarlas al ámbito familiar, en donde sus familias por tradición, costumbres, ideologías o incluso oportunidades laborales construyen sistemas económicos capaces de aportar significativamente a la generación de empleo y trabajo decente, a través de formas jurídicas establecidas por la ley para el sector solidario ejecutando actividades económicas para la satisfacción de las necesidades de sus asociados y el desarrollo comunitario.
 
     .d-flex.mb-5.ms-0.ms-md-5
       img(src="@/assets/curso/tema4/decorador.svg" style="max-width: 80px").mx-3.mx-md-4
       .text-bg-right
-        p.ps-2.ps-md-4 Es decir, que una empresa constituida como organización de economía solidaria en cualquiera de sus formas jurídicas, está facultada para desarrollar una, dos o más actividades económicas en beneficio de sus asociados y de la comunidad en general, donde prevalece el interés común, cumpliéndose su carácter de empresa sin ánimo de lucro; de tal forma que, según su actividad económica se podrá identificar el sector económico y por ende, la cadena productiva que desarrollará al interior de su propia gestión empresarial. 
+        p.ps-2.ps-md-4 Ahora bien, complementan la identidad asociativa no solo los valores sino también los principios de la economía solidaria, establecidos en el artículo 4 de la misma ley, constituyéndose en las bases que enmarcan el actuar de las empresas de economía solidaria en tres ejes fundamentales como: el ser (<b>sus asociados</b>), políticas empresariales (<b>direccionamiento estratégico</b>) y el valor compartido (<b>servicio a la comunidad</b>).
     
     .d-flex.flex-wrap.flex-md-nowrap.justify-content-between.align-items-center.mb-5
       p.mb-4.mb-md-0 Los once principios regulados por la ley se exponen en la siguiente figura:

@@ -157,7 +157,7 @@ export default {
         'Asociación es la acción y efecto de asociar o asociarse (unir una persona a otra para que colabore en algún trabajo, juntar una cosa con otra para un mismo fin, establecer una relación entre cosas o personas.',
     },
     {
-      termino: 'Economía colidaria',
+      termino: 'Economía solidaria',
       significado:
         'Sistema socioeconómico, cultural y ambiental conformado por el conjunto de fuerzas sociales organizadas en formas asociativas identificadas por prácticas autogestionarias solidarias, democráticas y humanistas, sin ánimo de lucro para el desarrollo integral del ser humano como sujeto, actor y fin de la economía.',
     },
@@ -191,22 +191,6 @@ export default {
       tipo: 'Libro',
       link:
         'https://colaboracion.dnp.gov.co/CDT/Prensa/Cadenas-Productivas-Industriales.pdf',
-    },
-    {
-      texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: ['/downloads/prueba.pdf', '/downloads/prueba.pdf'],
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
-      tipo: 'Video',
-      link: ['https://www.google.com/', 'https://www.google.com/'],
     },
   ],
   creditos: {

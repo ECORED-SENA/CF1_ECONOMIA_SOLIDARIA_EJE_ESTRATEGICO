@@ -11,10 +11,6 @@
       img(src="@/assets/curso/tema1/img-decorador_2.svg" style="width: 39px").mx-3.mx-md-4
       p En Colombia, aunque existe una clara reglamentación del sector solidario desde el año 1998, es una forma de hacer empresa poco explorada en los últimos años; sin embargo, con la Ley 2069 de 2020, ley que impulsa el emprendimiento, promueve en su artículo 23 de conformidad con lo establecido por los artículos 4° de la Ley 79 de 1988 y 6° de la Ley 454 de 1988, que las cooperativas y demás entidades de la economía solidaria son empresas; de tal manera, que las organizaciones de economía solidaria serán a partir de la denominada ley clasificadas como Mipymes, en cumplimiento de los parámetros establecidos para su constitución y funcionamiento.
 
-    figure.mb-5(style="border-radius: 10px")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    
     .d-flex
       img(src="@/assets/curso/introduccion/punto.svg" style="max-width: 10px").me-3
       p.fw-bold.mb-0 Figura 1
@@ -22,7 +18,22 @@
       p.mb-0.ps-4 <em>Importancia de ser Mipymes</em>
       img(src="@/assets/curso/introduccion/decorador.svg" style="max-width: 10px; transform: rotate(-90deg) translateY(-100%); position: absolute; top: -30px; right: 0")
     
-    h1 Aqui debe ir un componente que no es claro en el XD
+    .d-flex.flex-wrap.mb-5
+      img(src="@/assets/curso/tema1/img_t_1-4.png").col-12.col-md-6.mb-5.mb-md-0
+      .col-12.col-md-6.d-flex.ps-0.ps-md-5.mb-0.mb-md-5
+        div(style="border: 5px solid #A6E65A; border-radius: 26px").w-100.d-flex.p-4.p-md-5.d-flex.align-items-center
+          p.mb-0 Con esta clasificación como Mipymes para las organizaciones de economía solidaria, es una gran oportunidad para fomentar la creación de empresas sin ánimo de lucro que propendan por el desarrollo integral de sus asociados, de la comunidad y del medio ambiente a través de líneas de negocio sostenibles y amigables con el ecosistema, basadas en principios de solidaridad, cooperación, trabajo colectivo y apoyo mutuo.
+      .col-12(style="background-color: #08EDDA; border-radius: 13px").d-flex.flex-wrap.mt-3
+        .container-select
+          p.fw-bold.select-dot Principios
+        .container-select
+          p.fw-bold Solidaridad
+        .container-select
+          p.fw-bold Cooperación
+        .container-select
+          p.fw-bold Trabajo colectivo
+        .container-select
+          p.fw-bold Apoyo mutuo
 
     p.mb-5.col-12.col-md-10 Ahora bien, dada su importancia en la clasificación, se hace necesario conocer la dinámica de los sectores económicos en los que entrará a desarrollarse.
 
@@ -150,4 +161,21 @@ export default {
 .bloque-texto-comillas
   &::before
     background-color: #A4FDF6 !important
+.container-select
+  width: calc( 100%/5)
+  text-align: center
+  padding-top: .7rem
+  padding-bottom: .7rem
+  padding-right: .5rem
+  padding-left: .5rem
+  p
+    padding: .3rem 2rem
+    border-radius: 10px
+    margin-bottom: 0
+    background-color: white
+  .select-dot
+    background-color: transparent
+@media (max-width: 768px)
+  .container-select
+    width: 100%
 </style>

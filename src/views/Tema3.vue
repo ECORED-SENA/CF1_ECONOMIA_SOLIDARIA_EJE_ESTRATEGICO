@@ -10,7 +10,7 @@
       img(src="@/assets/curso/tema3/img_t_3-1.png" style="max-width: 406px; max-height: 327px").mb-4.mx-auto
       div.ps-0.ps-md-5
         img(src="@/assets/curso/tema3/decorador.svg" style="max-height: 10px; max-width: 84px;").ms-auto.mb-4
-        p De acuerdo con Bair (2009), el término cadena productiva fue presentado en el artículo Patterns of development of the modern world-system de Hopkins y Wallerstein en 1977. Estos autores definieron una cadena productiva como el conjunto de insumos — transformaciones previas, las materias primas, los mecanismos de transporte y la mano de obra— necesarios para la obtención de un bien final (Hopkins y Wallerstein 1977, p. 128; citado en Bair, 2009). 
+        p De acuerdo con Bair (2009), el término cadena productiva fue presentado en el artículo <em>Patterns of development of the modern world-system</em> de Hopkins y Wallerstein en 1977. Estos autores definieron una cadena productiva como el conjunto de insumos — transformaciones previas, las materias primas, los mecanismos de transporte y la mano de obra— necesarios para la obtención de un bien final (Hopkins y Wallerstein 1977, p. 128; citado en Bair, 2009). 
         br
         p.mb-4 De este modo, el concepto de cadena productiva permite entender, a partir de un esquema, el recorrido de los bienes primarios (materias primas), la producción (procesos productivos) y los bienes finales (productos terminados) de las actividades económicas desarrolladas por las empresas, que agrupadas son los sectores productivos que apalancan la economía de una región o un país, tal como lo presenta la siguiente figura:
         .d-flex.justify-content-between
@@ -32,14 +32,14 @@
     .col-12.col-md-10.mx-auto.mb-5
       .d-flex
         img(src="@/assets/curso/introduccion/punto.svg" style="max-width: 10px").me-3
-        p.fw-bold.mb-0 Figura 5
+        p.fw-bold.mb-0 Tabla 1
       .d-flex.justify-content-between.align-items-start.position-relative.mb-5
         p.mb-0.ps-4 <em>Cadenas productivas</em>
     
     .tabla-b.color-acento-contenido.mb-3
       .tabla-b__header.position-relative(style="background-color: #F6F6F6;")
         img(src="@/assets/curso/tema3/decorador.svg" style="position: absolute; max-height: 10px; max-width: 84px; left: 40px; top: calc(50% - 5px)").d-none.d-md-flex
-        h5.mb-0(style="color: black") Niveles del lenguaje
+        h5.mb-0(style="color: black") Cadenas productivas
       table
         tr
           th
@@ -58,17 +58,17 @@
             p.mb-0 <span class="fw-bold text-center pe-5">18</span> Cadena petroquímica - pinturas
         tr
           th
-            p.mb-0 <span class="fw-bold text-center pe-5">4</span> Cadena café y té
+            p.mb-0 <span class="fw-bold text-center pe-5">4</span> Cadena tabaco
           th(style="border-right: none")
             p.mb-0 <span class="fw-bold text-center pe-5">19</span> Cadena petroquímica - caucho
         tr
           th
-            p.mb-0 <span class="fw-bold text-center pe-5">5</span> Cadena tabaco
+            p.mb-0 <span class="fw-bold text-center pe-5">5</span> Cadena café y té
           th(style="border-right: none")
             p.mb-0 <span class="fw-bold text-center pe-5">20</span> Cadena cosméticos y aseo
         tr
           th
-            p.mb-0 <span class="fw-bold text-center pe-5">6</span> Cadena café y té
+            p.mb-0 <span class="fw-bold text-center pe-5">6</span> cadena hortofruticola
           th(style="border-right: none")
             p.mb-0 <span class="fw-bold text-center pe-5">21</span> Cadena farmacéutica y medicamentos
         tr
@@ -145,7 +145,7 @@
     
     .d-flex
       img(src="@/assets/curso/tema3/decorador5.svg" style="max-width: 10px").me-3
-      p.fw-bold.mb-0 Figura 5
+      p.fw-bold.mb-0 Figura 6
     .d-flex.justify-content-between.align-items-start.position-relative.mb-5
       p.mb-0.ps-4 <em>Ocho cadenas productivas</em>
     
