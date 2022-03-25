@@ -23,7 +23,7 @@
     .d-flex.justify-content-between.align-items-start.position-relative.mb-5
       p.mb-0.ps-4 <em>Cadenas productivas</em>
     
-    img(src="@/assets/curso/tema3/img_t_3-2.png").col-12.col-md-11.mx-auto.mb-5
+    img(src="@/assets/curso/tema3/img_t_3-2.png").col-12.mx-auto.mb-5
 
     .d-flex.align-items-start.mb-5
       img(src="@/assets/curso/introduccion/punto.svg" style="max-width: 10px").me-3.pt-1
