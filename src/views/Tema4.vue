@@ -8,9 +8,9 @@
       h1 Principios y fines de la economía solidaria 
     
     .d-flex.pt-5.mb-5
-      img(src="@/assets/curso/introduccion/decorador.svg" style="max-width: 10px").mx-3.mx-md-4.d-flex
+      img(src="@/assets/curso/introduccion/decorador.svg" data-aos="fade-up" style="max-width: 10px").mx-3.mx-md-4.d-flex
       .text-bg-rl
-        p.ps-2.ps-md-4 Existen ejemplos muy exitosos de organizaciones de economía solidaria y en gran parte obedece a que sus asociados cumplen a cabalidad con los valores, principios y fines de la economía solidaria, establecidos por la Ley 454 de 1998 y que confluyen en la identidad de estas organizaciones que marcan la diferencia frente a las empresas con ánimo de lucro. Sabiendo esto, a continuación, se presentan los valores de la economía solidaria.
+        p.ps-2.ps-md-4(data-aos="fade-left") Existen ejemplos muy exitosos de organizaciones de economía solidaria y en gran parte obedece a que sus asociados cumplen a cabalidad con los valores, principios y fines de la economía solidaria, establecidos por la Ley 454 de 1998 y que confluyen en la identidad de estas organizaciones que marcan la diferencia frente a las empresas con ánimo de lucro. Sabiendo esto, a continuación, se presentan los valores de la economía solidaria.
 
     .row.mb-5
       .col-sm-6.col-lg-3.mb-4.tg-flip-t-4
@@ -104,27 +104,27 @@
               p Capacidad de una persona para sentir empatía por los problemas, necesidades o dificultades de quienes lo rodean.
 
     .d-flex.mb-5
-      img(src="@/assets/curso/introduccion/decorador.svg" style="max-width: 10px").mx-3.mx-md-4
+      img(src="@/assets/curso/introduccion/decorador.svg" data-aos="fade-up" style="max-width: 10px").mx-3.mx-md-4
       .text-bg-left
-        p.ps-2.ps-md-4 La práctica permanente y conjunta de la identidad corporativa en la gestión de estas formas asociativas, conlleva a que los asociados apropien y apliquen estos ideales en sus actuaciones que incluso pueden trasladarlas al ámbito familiar, en donde sus familias por tradición, costumbres, ideologías o incluso oportunidades laborales construyen sistemas económicos capaces de aportar significativamente a la generación de empleo y trabajo decente, a través de formas jurídicas establecidas por la ley para el sector solidario ejecutando actividades económicas para la satisfacción de las necesidades de sus asociados y el desarrollo comunitario.
+        p.ps-2.ps-md-4(data-aos="fade-left") La práctica permanente y conjunta de la identidad corporativa en la gestión de estas formas asociativas, conlleva a que los asociados apropien y apliquen estos ideales en sus actuaciones que incluso pueden trasladarlas al ámbito familiar, en donde sus familias por tradición, costumbres, ideologías o incluso oportunidades laborales construyen sistemas económicos capaces de aportar significativamente a la generación de empleo y trabajo decente, a través de formas jurídicas establecidas por la ley para el sector solidario ejecutando actividades económicas para la satisfacción de las necesidades de sus asociados y el desarrollo comunitario.
 
     .d-flex.mb-5.ms-0.ms-md-5
-      img(src="@/assets/curso/tema4/decorador.svg" style="max-width: 80px").mx-3.mx-md-4
+      img(src="@/assets/curso/tema4/decorador.svg" data-aos="fade-right" style="max-width: 80px").mx-3.mx-md-4
       .text-bg-right
-        p.ps-2.ps-md-4 Ahora bien, complementan la identidad asociativa no solo los valores sino también los principios de la economía solidaria, establecidos en el artículo 4 de la misma ley, constituyéndose en las bases que enmarcan el actuar de las empresas de economía solidaria en tres ejes fundamentales como: el ser (<b>sus asociados</b>), políticas empresariales (<b>direccionamiento estratégico</b>) y el valor compartido (<b>servicio a la comunidad</b>).
+        p.ps-2.ps-md-4(data-aos="fade-left") Ahora bien, complementan la identidad asociativa no solo los valores sino también los principios de la economía solidaria, establecidos en el artículo 4 de la misma ley, constituyéndose en las bases que enmarcan el actuar de las empresas de economía solidaria en tres ejes fundamentales como: el ser (<b>sus asociados</b>), políticas empresariales (<b>direccionamiento estratégico</b>) y el valor compartido (<b>servicio a la comunidad</b>).
     
     .d-flex.flex-wrap.flex-md-nowrap.justify-content-between.align-items-center.mb-5
       p.mb-4.mb-md-0 Los once principios regulados por la ley se exponen en la siguiente figura:
-      img(src="@/assets/curso/tema2/decorador4.svg" style="max-width: 132px").mx-3.mx-md-4.ms-auto
+      img(src="@/assets/curso/tema2/decorador4.svg" data-aos="flip-up" style="max-width: 132px").mx-3.mx-md-4.ms-auto
 
-    img(src="@/assets/curso/tema4/img_t_4-11.png").mb-5
+    img(src="@/assets/curso/tema4/img_t_4-11.png" data-aos="zoom-in").mb-5
 
-    img(src="@/assets/curso/tema2/decorador5.svg" style="max-width: 84px; transform: rotate(180deg)").mb-4.ms-auto
+    img(src="@/assets/curso/tema2/decorador5.svg" data-aos="fade-left" style="max-width: 84px; transform: rotate(180deg)").mb-4.ms-auto
     .d-flex.mb-5
-      img(src="@/assets/curso/tema1/img-decorador_2.svg" style="max-width: 36px").mx-3.mx-md-4
+      img(src="@/assets/curso/tema1/img-decorador_2.svg" data-aos="fade-right" style="max-width: 36px").mx-3.mx-md-4
       .text-bg-right-full
-        p.ps-2.ps-md-4 De tal modo, que la filosofía de esta forma jurídica empresarial se enmarca en sus valores y principios en donde prevalece el beneficio de todos sus asociados y de la comunidad y sus creencias en el bien común. Son la brújula y la guía para trazar sus objetivos estratégicos, resaltando además que está nueva forma de hacer negocios presenta un nuevo auge en la economía del país e impulsa el desarrollo económico y sostenible de los emprendimientos sociales.
-    img(src="@/assets/curso/tema2/decorador5.svg" style="max-width: 84px")
+        p.ps-2.ps-md-4(data-aos="fade-left") De tal modo, que la filosofía de esta forma jurídica empresarial se enmarca en sus valores y principios en donde prevalece el beneficio de todos sus asociados y de la comunidad y sus creencias en el bien común. Son la brújula y la guía para trazar sus objetivos estratégicos, resaltando además que está nueva forma de hacer negocios presenta un nuevo auge en la economía del país e impulsa el desarrollo económico y sostenible de los emprendimientos sociales.
+    img(src="@/assets/curso/tema2/decorador5.svg" data-aos="fade-right" style="max-width: 84px")
 </template>
 
 <script>

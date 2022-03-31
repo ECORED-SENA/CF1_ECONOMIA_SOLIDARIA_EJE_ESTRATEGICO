@@ -6,16 +6,17 @@
       .titulo-principal__numero
         span(style="color: white") 3
       h1 Cadenas productivas
-    .d-flex.flex-wrap.flex-xl-nowrap
-      img(src="@/assets/curso/tema3/img_t_3-1.png" style="max-width: 406px; max-height: 327px").mb-4.mx-auto
+
+    .d-flex.flex-wrap.flex-xl-nowrap.mb-5
+      img(src="@/assets/curso/tema3/img_t_3-1.png" style="max-width: 406px; max-height: 327px" data-aos="fade-right").mb-4.mx-auto
       div.ps-0.ps-md-5
-        img(src="@/assets/curso/tema3/decorador.svg" style="max-height: 10px; max-width: 84px;").ms-auto.mb-4
-        p De acuerdo con Bair (2009), el término cadena productiva fue presentado en el artículo <em>Patterns of development of the modern world-system</em> de Hopkins y Wallerstein en 1977. Estos autores definieron una cadena productiva como el conjunto de insumos — transformaciones previas, las materias primas, los mecanismos de transporte y la mano de obra— necesarios para la obtención de un bien final (Hopkins y Wallerstein 1977, p. 128; citado en Bair, 2009). 
+        img(src="@/assets/curso/tema3/decorador.svg" style="max-height: 10px; max-width: 84px;" data-aos="fade-left").ms-auto.mb-4
+        p(data-aos="fade-right") De acuerdo con Bair (2009), el término cadena productiva fue presentado en el artículo <em>Patterns of development of the modern world-system</em> de Hopkins y Wallerstein en 1977. Estos autores definieron una cadena productiva como el conjunto de insumos — transformaciones previas, las materias primas, los mecanismos de transporte y la mano de obra— necesarios para la obtención de un bien final (Hopkins y Wallerstein 1977, p. 128; citado en Bair, 2009). 
         br
-        p.mb-4 De este modo, el concepto de cadena productiva permite entender, a partir de un esquema, el recorrido de los bienes primarios (materias primas), la producción (procesos productivos) y los bienes finales (productos terminados) de las actividades económicas desarrolladas por las empresas, que agrupadas son los sectores productivos que apalancan la economía de una región o un país, tal como lo presenta la siguiente figura:
+        p.mb-4(data-aos="fade-left") De este modo, el concepto de cadena productiva permite entender, a partir de un esquema, el recorrido de los bienes primarios (materias primas), la producción (procesos productivos) y los bienes finales (productos terminados) de las actividades económicas desarrolladas por las empresas, que agrupadas son los sectores productivos que apalancan la economía de una región o un país, tal como lo presenta la siguiente figura:
         .d-flex.justify-content-between
-          img(src="@/assets/curso/tema3/decorador.svg" style="max-height: 10px; max-width: 84px;")
-          div(style="height: 18px; width: 50%; background-color: #CBF6F2")
+          img(src="@/assets/curso/tema3/decorador.svg" data-aos="fade-right" style="max-height: 10px; max-width: 84px;")
+          div(style="height: 18px; width: 50%; background-color: #CBF6F2" data-aos="fade-left")
 
     .d-flex
       img(src="@/assets/curso/introduccion/punto.svg" style="max-width: 10px").me-3
@@ -23,9 +24,9 @@
     .d-flex.justify-content-between.align-items-start.position-relative.mb-5
       p.mb-0.ps-4 <em>Cadenas productivas</em>
     
-    img(src="@/assets/curso/tema3/img_t_3-2.png").col-12.mx-auto.mb-5
+    img(src="@/assets/curso/tema3/img_t_3-2.png" data-aos="zoom-in").col-12.mx-auto.mb-5
 
-    .d-flex.align-items-start.mb-5
+    .d-flex.align-items-start.mb-5(data-aos="fade-right")
       img(src="@/assets/curso/introduccion/punto.svg" style="max-width: 10px").me-3.pt-1
       p.mb-0 En Colombia, el Departamento Nacional de Planeación - DNP, analiza treinta cadenas productivas más representativas en la economía del país, describiendo estadísticas de los perfiles sectoriales, así: 
 
@@ -119,29 +120,29 @@
     img(src="@/assets/curso/tema3/decorador.svg" style="max-height: 10px; max-width: 84px; transform: rotate(180deg)").ms-auto.mb-5
 
     .d-flex.mb-5.pb-3
-      img(src="@/assets/curso/introduccion/decorador.svg" style="max-width: 10px").mx-3.ms-md-4.me-md-5
+      img(src="@/assets/curso/introduccion/decorador.svg" style="max-width: 10px" data-aos="fade-up").mx-3.ms-md-4.me-md-5
       div
         .text-dos-fondos.me-0.me-md-5
-          p.mb-2 Para profundizar en los perfiles sectoriales, el esquema de las cadenas productivas, sus actualizaciones como el comportamiento en sus exportaciones, importaciones, producto interno bruto y generación de empleo en los diversos eslabones que la conforman, se puede consultar el siguiente enlace: 
+          p.mb-2(data-aos="fade-down") Para profundizar en los perfiles sectoriales, el esquema de las cadenas productivas, sus actualizaciones como el comportamiento en sus exportaciones, importaciones, producto interno bruto y generación de empleo en los diversos eslabones que la conforman, se puede consultar el siguiente enlace: 
         .d-flex.justify-content-between
-          img(src="@/assets/curso/tema3/decorador1.svg" style="max-width: 47px; max-height: 16px; transform: rotate3d(0, 1, 0, 180deg)")
-          img(src="@/assets/curso/tema3/decorador1.svg" style="max-width: 47px; max-height: 16px;")
+          img(src="@/assets/curso/tema3/decorador1.svg" data-aos="fade-right" style="max-width: 47px; max-height: 16px; transform: rotate3d(0, 1, 0, 180deg)")
+          img(src="@/assets/curso/tema3/decorador1.svg" data-aos="fade-left" style="max-width: 47px; max-height: 16px;")
     
     .container_link.position-relative.col-12.col-md-11.mx-auto.d-flex.flex-wrap.flex-md-nowrap.mb-5
-      img(src="@/assets/curso/tema3/img_t_3-3.png" style="max-width: 585px; margin-top: -2.5rem")
+      img(src="@/assets/curso/tema3/img_t_3-3.png" data-aos="zoom-in" style="max-width: 585px; margin-top: -2.5rem")
       .my-auto.position-relative
         p(style="color: white").pe-0.pe-md-5.pb-4 Estimado aprendiz, para profundizar sobre el tema puede consultar la siguiente página.
         .w-100.d-flex.justify-content-center.pe-0.pe-md-5.mt-5
           .mx-auto
             p.fw-bold(style="color: white") Análisis cadenas productivas”
             a(href="https://www.dnp.gov.co/programas/desarrollo-empresarial/Paginas/analisis-cadenas-productivas.aspx" target="_blank").link_button Dar clic para ir al lugar 
-          img(src="@/assets/curso/tema3/decorador3.svg" style="max-width: 36px")
+          img(src="@/assets/curso/tema3/decorador3.svg" data-aos="fade-left" style="max-width: 36px")
       img(src="@/assets/curso/tema3/img_t_3-4.png" style="max-width: 72px; position: absolute; right: 0; top: 50%; transform: translateY(-50%);")
 
     .d-flex.mb-5
-      img(src="@/assets/curso/tema3/decorador4.svg" style="max-width: 41px").mx-3.mx-md-4
+      img(src="@/assets/curso/tema3/decorador4.svg" data-aos="flip-left" style="max-width: 41px").mx-3.mx-md-4
       .text-bg-right
-        p Así mismo, en el material complementario se encuentra el documento “Cadenas productivas industriales” estructura, comercio internacional y prospectiva, 2002 – 2017, (Departamento Nacional de Planeación, 2020), en donde a partir de una metodología para la estructuración de los eslabones, que componen la cadena productiva y los métodos de cálculo utilizados, se obtienen las estadísticas e indicadores que se presentan en las ocho cadenas productivas, a saber: 
+        p(data-aos="fade-left") Así mismo, en el material complementario se encuentra el documento “Cadenas productivas industriales” estructura, comercio internacional y prospectiva, 2002 – 2017, (Departamento Nacional de Planeación, 2020), en donde a partir de una metodología para la estructuración de los eslabones, que componen la cadena productiva y los métodos de cálculo utilizados, se obtienen las estadísticas e indicadores que se presentan en las ocho cadenas productivas, a saber: 
     
     .d-flex
       img(src="@/assets/curso/tema3/decorador5.svg" style="max-width: 10px").me-3
@@ -149,12 +150,12 @@
     .d-flex.justify-content-between.align-items-start.position-relative.mb-5
       p.mb-0.ps-4 <em>Ocho cadenas productivas</em>
     
-    img(src="@/assets/curso/tema3/img_t_3-5.png").mb-5
+    img(src="@/assets/curso/tema3/img_t_3-5.png" data-aos="fade-up").mb-5
 
     .d-flex.pt-5.mb-5
       .text-bg-left
-        p.ps-2.ps-md-4 Es decir, que una empresa constituida como organización de economía solidaria en cualquiera de sus formas jurídicas, está facultada para desarrollar una, dos o más actividades económicas en beneficio de sus asociados y de la comunidad en general, donde prevalece el interés común, cumpliéndose su carácter de empresa sin ánimo de lucro; de tal forma que, según su actividad económica se podrá identificar el sector económico y por ende, la cadena productiva que desarrollará al interior de su propia gestión empresarial. 
-      img(src="@/assets/curso/tema3/decorador4.svg" style="max-width: 41px").mx-3.mx-md-4
+        p.ps-2.ps-md-4(data-aos="fade-right") Es decir, que una empresa constituida como organización de economía solidaria en cualquiera de sus formas jurídicas, está facultada para desarrollar una, dos o más actividades económicas en beneficio de sus asociados y de la comunidad en general, donde prevalece el interés común, cumpliéndose su carácter de empresa sin ánimo de lucro; de tal forma que, según su actividad económica se podrá identificar el sector económico y por ende, la cadena productiva que desarrollará al interior de su propia gestión empresarial. 
+      img(src="@/assets/curso/tema3/decorador4.svg" data-aos="flip-left" style="max-width: 41px").mx-3.mx-md-4
 
 </template>
 

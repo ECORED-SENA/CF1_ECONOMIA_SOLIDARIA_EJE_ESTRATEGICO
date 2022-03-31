@@ -8,33 +8,33 @@
       h1 Sector solidario y su clasificación
 
     .d-flex.justify-content-between.align-items-center.mb-5
-      img(src="@/assets/curso/tema2/decorador1.svg" style="max-width: 36px")
+      img(src="@/assets/curso/tema2/decorador1.svg" style="max-width: 36px" data-aos="fade-right")
       p.mb-0.ps-3 El sector solidario en Colombia, como lo afirma Dávila Ladrón de Guevara, R. (s.f.): 
-      img.d-none.d-lg-flex(src="@/assets/curso/tema2/decorador_large_1.svg" style="max-width: 536px")
+      img.d-none.d-lg-flex(src="@/assets/curso/tema2/decorador_large_1.svg" style="max-width: 536px" data-aos="fade-left")
     
     .bloque-texto-c.bloque-texto_t_2.p-4.col-12.col-md-9.mx-auto(style="background-color: #B6F8F2").mb-5
       i.fas.fa-quote-right(style="color: white")
-      p.py-3.px-5 Se remonta desde mediados del <b>siglo XIX</b>, donde se crean las primeras asociaciones mutuales cuyo origen fue solucionar las necesidades sociales, a partir del año 1931 con La ley 132, que hace referencia a la promoción y fomento de las cooperativas de producción y consumo, se registra la primera normativa que regula el sector.  
+      p.py-3.px-5(data-aos="fade-up") Se remonta desde mediados del <b>siglo XIX</b>, donde se crean las primeras asociaciones mutuales cuyo origen fue solucionar las necesidades sociales, a partir del año 1931 con La ley 132, que hace referencia a la promoción y fomento de las cooperativas de producción y consumo, se registra la primera normativa que regula el sector.  
 
     .d-flex
-      img(src="@/assets/curso/tema2/decorador2.svg" style="max-width: 36px").me-3.me-md-5
-      p A partir de esta ley nacen otras que buscan promover y fortalecer el sector solidario, entre las que se encuentra la Ley 454 de 1998, que establece el marco conceptual que regula la economía solidaria en Colombia. 
+      img(src="@/assets/curso/tema2/decorador2.svg" style="max-width: 36px" data-aos="fade-right").me-3.me-md-5
+      p(data-aos="fade-left") A partir de esta ley nacen otras que buscan promover y fortalecer el sector solidario, entre las que se encuentra la Ley 454 de 1998, que establece el marco conceptual que regula la economía solidaria en Colombia. 
 
     .d-flex.ps-0.ps-md-5.ms-0.ms-md-4.justify-content-between.mb-5
-      p.ps-3 Esta Ley 454 de 1998, en su artículo 2, define la economía solidaria como:
-      img.d-none.d-lg-flex(src="@/assets/curso/tema2/decorador_large_2.svg" style="max-width: 536px")
+      p.ps-3(data-aos="fade-right") Esta Ley 454 de 1998, en su artículo 2, define la economía solidaria como:
+      img.d-none.d-lg-flex(src="@/assets/curso/tema2/decorador_large_2.svg" data-aos="fade-left" style="max-width: 536px")
     
     .bloque-texto-c.bloque-texto_t_2.p-4.col-12.col-md-9.mx-auto(style="background-color: #CBF09F").mb-5
       i.fas.fa-quote-right(style="color: white")
-      p.py-3.px-5 El sistema socioeconómico, cultural y ambiental conformado por el conjunto de fuerzas sociales organizadas en formas asociativas identificadas por prácticas autogestionarias solidarias, democráticas y humanistas, sin ánimo de lucro para el desarrollo integral del ser humano como sujeto, actor y fin de la economía.
+      p.py-3.px-5(data-aos="fade-up") El sistema socioeconómico, cultural y ambiental conformado por el conjunto de fuerzas sociales organizadas en formas asociativas identificadas por prácticas autogestionarias solidarias, democráticas y humanistas, sin ánimo de lucro para el desarrollo integral del ser humano como sujeto, actor y fin de la economía.
     
     .container-bg-color.mb-5
-      p.mb-0.py-2 Con esta normativa se genera un aporte sustancial a la estructura conceptual, ideológica y de funcionamiento de este sistema socioeconómico como una alternativa de asociatividad empresarial.
-      img.d-none.d-lg-flex(src="@/assets/curso/tema2/decorador_large_3.svg" style="max-width: 272px")
+      p.mb-0.py-2(data-aos="fade-right") Con esta normativa se genera un aporte sustancial a la estructura conceptual, ideológica y de funcionamiento de este sistema socioeconómico como una alternativa de asociatividad empresarial.
+      img.d-none.d-lg-flex(src="@/assets/curso/tema2/decorador_large_3.svg" data-aos="fade-left" style="max-width: 272px")
 
     .d-flex.mb-5
-      img(src="@/assets/curso/tema2/decorador3.svg" style="max-width: 36px").me-3.me-md-5
-      .text-decorator_t_2
+      img(src="@/assets/curso/tema2/decorador3.svg" data-aos="fade-right" style="max-width: 36px").me-3.me-md-5
+      .text-decorator_t_2(data-aos="fade-left")
         p.mb-0 Así mismo, los fines de la economía solidaria se asimilan en el mundo empresarial como los propósitos fijados en el direccionamiento estratégico de estas organizaciones que afianzan una vez más esta filosofía corporativa que enaltece, diferencia y aporta un ingrediente diferenciador frente a otro tipo de formas jurídicas empresariales, que sin duda potencian y avivan esta alternativa sostenible y sustentable de hacer negocios; estos fines establecidos en la Ley 454 de 1998 en su artículo 5, son los siguientes: 
     
     .d-flex
@@ -43,26 +43,26 @@
     .d-flex.justify-content-between.align-items-start.position-relative.mb-5
       p.mb-0.ps-4 <em>Fines de la Ley 454 de 1998</em>
     
-    img(src="@/assets/curso/tema2/img-1.png").mb-5
+    img(src="@/assets/curso/tema2/img-1.png" data-aos="zoom-in").mb-5
   
     .d-flex.col-12.col-md-11.align-items-center.mb-4
-      img(src="@/assets/curso/introduccion/decorador.svg" style="max-width: 10px").mx-3.mx-md-4
-      .text-bg 
+      img(src="@/assets/curso/introduccion/decorador.svg" data-aos="fade-up" style="max-width: 10px").mx-3.mx-md-4
+      .text-bg(data-aos="fade-left")
         p Con la identificación de los fines, seguramente se logra reconocer que en el sector solidario prevalecen los intereses comunes sobre el interés particular y de ahí que estos se convierten en una característica fundamental para las empresas sin ánimo de lucro. 
-    .text-bg-right.col-12.col-md-10.ms-auto.mb-5
-      p Por consiguiente, el marco conceptual establecido por la norma y los fines del sector solidario en Colombia agrupan las organizaciones de carácter asociativo y solidario, sin ánimo de lucro, orientadas a desarrollar acciones en beneficio del bien común, la satisfacción de las necesidades humanas y el desarrollo integral de sus asociados.
+    .text-bg-right.col-12.col-md-10.ms-auto.mb-5(data-aos="fade-right")
+      p(data-aos="fade-right") Por consiguiente, el marco conceptual establecido por la norma y los fines del sector solidario en Colombia agrupan las organizaciones de carácter asociativo y solidario, sin ánimo de lucro, orientadas a desarrollar acciones en beneficio del bien común, la satisfacción de las necesidades humanas y el desarrollo integral de sus asociados.
 
     .d-flex.flex-wrap.flex-md-nowrap.mb-5
-      p.order-2.order-md-1.pe-4 Las organizaciones solidarias se agrupan en dos grandes grupos: el de las organizaciones de economía solidaria y el de las organizaciones solidarias de desarrollo. En el siguiente recurso podrá profundizar su conocimiento sobre cada una de ellas:
-      img.order-1.order-md-2.mb-3(src="@/assets/curso/tema2/decorador4.svg" style="max-width: 132px")
+      p.order-2.order-md-1.pe-4(data-aos="fade-right") Las organizaciones solidarias se agrupan en dos grandes grupos: el de las organizaciones de economía solidaria y el de las organizaciones solidarias de desarrollo. En el siguiente recurso podrá profundizar su conocimiento sobre cada una de ellas:
+      img.order-1.order-md-2.mb-3(src="@/assets/curso/tema2/decorador4.svg" data-aos="flip-up" style="max-width: 132px")
     .d-flex.flex-wrap.justify-content-center.mb-5.mb-md-0
       div.indicador__container
         .indicador--click(v-if="mostrarIndicador")
         img(src="@/assets/curso/tema2/img-modal-1.png" style="max-width: 302px" @click="modal1 = true" @mouseover="mostrarIndicador = false").me-0.ms-md-3.me-lg-5.img-modal
       img(src="@/assets/curso/tema2/img-modal-2.png" style="max-width: 302px" @click="modal2 = true").ms-0.ms-md-3.ms-lg-5.img-modal
     .d-flex.justify-content-between
-      img(src="@/assets/curso/tema2/decorador5.svg" style="max-width: 84px")
-      img(src="@/assets/curso/tema2/decorador6.svg" style="max-width: 84px")
+      img(src="@/assets/curso/tema2/decorador5.svg" style="max-width: 84px" data-aos="fade-right")
+      img(src="@/assets/curso/tema2/decorador6.svg" style="max-width: 84px" data-aos="fade-left")
     
     ModalA(:abrir-modal.sync="modal2").modal_t_2-1
       .container-modal(style="border-color: #A6E65A")

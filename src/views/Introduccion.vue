@@ -10,14 +10,14 @@
       h1 Introducción
     
     .container-text-img
-      img(src="@/assets/curso/introduccion/decorador.svg")
-      p Tradicionalmente se habla que la economía está organizada en tres sectores básicos, reconocidos como, el sector primario o agrícola, dedicado principalmente a la extracción de los recursos naturales; el secundario o sector industrial que transforma la materia prima en productos terminados y por último, el sector terciario dedicado a la prestación de servicios; estos sectores al mismo tiempo se clasifican en subsectores de acuerdo con las diversas actividades económicas que desarrolla una empresa, indistintamente de su tamaño y clasificación empresarial.
+      img(src="@/assets/curso/introduccion/decorador.svg" data-aos="fade-right")
+      p(data-aos="fade-left") Tradicionalmente se habla que la economía está organizada en tres sectores básicos, reconocidos como, el sector primario o agrícola, dedicado principalmente a la extracción de los recursos naturales; el secundario o sector industrial que transforma la materia prima en productos terminados y por último, el sector terciario dedicado a la prestación de servicios; estos sectores al mismo tiempo se clasifican en subsectores de acuerdo con las diversas actividades económicas que desarrolla una empresa, indistintamente de su tamaño y clasificación empresarial.
 
     .container-img-text-2img_1.mb-5
-      img(src="@/assets/curso/introduccion/img_1.png" style="max-width: 430px")
-      p Esta clasificación empresarial para las organizaciones de economía solidaria está regulada por el marco conceptual determinado por la Ley 454 de 1998 y se conoce como el sector solidario que agrupa las organizaciones de carácter asociativo y solidario sin ánimo de lucro, orientadas a satisfacer las necesidades humanas y soportadas bajo el principio de la solidaridad.
+      img(src="@/assets/curso/introduccion/img_1.png" style="max-width: 430px" data-aos="zoom-in")
+      p(data-aos="fade-left") Esta clasificación empresarial para las organizaciones de economía solidaria está regulada por el marco conceptual determinado por la Ley 454 de 1998 y se conoce como el sector solidario que agrupa las organizaciones de carácter asociativo y solidario sin ánimo de lucro, orientadas a satisfacer las necesidades humanas y soportadas bajo el principio de la solidaridad.
     
-    .d-flex.ps-0.ps-md-4.mb-5
+    .d-flex.ps-0.ps-md-4.mb-5(data-aos="fade-up")
       img(src="@/assets/curso/introduccion/punto.svg" style="max-width: 10px").me-3
       p.mb-0 Sabiendo lo anterior, el siguiente video presenta qué es una organización de economía solidaria en Colombia y lo que se desarrollará en el presente componente:
 
