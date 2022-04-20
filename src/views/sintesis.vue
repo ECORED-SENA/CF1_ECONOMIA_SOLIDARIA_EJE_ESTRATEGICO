@@ -14,7 +14,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/sintesis.svg")
 
 </template>
 

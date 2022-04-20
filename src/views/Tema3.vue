@@ -43,80 +43,80 @@
         h5.mb-0(style="color: black") Cadenas productivas
       table
         tr
-          th
-            p.mb-0 <span class="fw-bold text-center pe-5">1</span> Cadena de molinería
-          th(style="border-right: none")
-            p.mb-0 <span class="fw-bold text-center pe-5">16</span> Cadena agroquímicos
+          th.pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">1</span> Cadena de molinería
+          th(style="border-right: none;").pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">16</span> Cadena agroquímicos
         tr
-          th
-            p.mb-0 <span class="fw-bold text-center pe-5">2</span> Cadena Azúcar, confitería y chocolatería
-          th(style="border-right: none")
-            p.mb-0 <span class="fw-bold text-center pe-5">17</span> Cadena petroquímica - plásticos
+          th.pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">2</span> Cadena Azúcar, confitería y chocolatería
+          th(style="border-right: none;").pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">17</span> Cadena petroquímica - plásticos
         tr
-          th
-            p.mb-0 <span class="fw-bold text-center pe-5">3</span> Cadena oleaginosas, aceite y grasas
-          th(style="border-right: none")
-            p.mb-0 <span class="fw-bold text-center pe-5">18</span> Cadena petroquímica - pinturas
+          th.pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">3</span> Cadena oleaginosas, aceite y grasas
+          th(style="border-right: none;").pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">18</span> Cadena petroquímica - pinturas
         tr
-          th
-            p.mb-0 <span class="fw-bold text-center pe-5">4</span> Cadena tabaco
-          th(style="border-right: none")
-            p.mb-0 <span class="fw-bold text-center pe-5">19</span> Cadena petroquímica - caucho
+          th.pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">4</span> Cadena tabaco
+          th(style="border-right: none;").pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">19</span> Cadena petroquímica - caucho
         tr
-          th
-            p.mb-0 <span class="fw-bold text-center pe-5">5</span> Cadena café y té
-          th(style="border-right: none")
-            p.mb-0 <span class="fw-bold text-center pe-5">20</span> Cadena cosméticos y aseo
+          th.pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">5</span> Cadena café y té
+          th(style="border-right: none;").pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">20</span> Cadena cosméticos y aseo
         tr
-          th
-            p.mb-0 <span class="fw-bold text-center pe-5">6</span> cadena hortofruticola
-          th(style="border-right: none")
-            p.mb-0 <span class="fw-bold text-center pe-5">21</span> Cadena farmacéutica y medicamentos
+          th.pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">6</span> cadena hortofrutícola
+          th(style="border-right: none;").pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">21</span> Cadena farmacéutica y medicamentos
         tr
-          th
-            p.mb-0 <span class="fw-bold text-center pe-5">7</span> Cadena cárnicos
-          th(style="border-right: none")
-            p.mb-0 <span class="fw-bold text-center pe-5">22</span> Cadena cerámica
+          th.pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">7</span> Cadena cárnicos
+          th(style="border-right: none;").pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">22</span> Cadena cerámica
         tr
-          th
-            p.mb-0 <span class="fw-bold text-center pe-5">8</span> Cadena pesca y atún
-          th(style="border-right: none")
-            p.mb-0 <span class="fw-bold text-center pe-5">23</span> Cadena vidrio
+          th.pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">8</span> Cadena pesca y atún
+          th(style="border-right: none;").pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">23</span> Cadena vidrio
         tr
-          th
-            p.mb-0 <span class="fw-bold text-center pe-5">9</span> Cadena cuero, calzado e industria marroquinera
-          th(style="border-right: none")
-            p.mb-0 <span class="fw-bold text-center pe-5">24</span> Cadena cemento y sus aplicaciones
+          th.pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">9</span> Cadena cuero, calzado e industria marroquinera
+          th(style="border-right: none;").pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">24</span> Cadena cemento y sus aplicaciones
         tr
-          th
-            p.mb-0 <span class="fw-bold text-center pe-5">10</span> Cadena lácteos
-          th(style="border-right: none")
-            p.mb-0 <span class="fw-bold text-center pe-5">25</span> Cadena siderúrgica
+          th.pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">10</span> Cadena lácteos
+          th(style="border-right: none;").pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">25</span> Cadena siderúrgica
         tr
-          th
-            p.mb-0 <span class="fw-bold text-center pe-5">11</span> Cadena alimentos concentrados o balanceados
-          th(style="border-right: none")
-            p.mb-0 <span class="fw-bold text-center pe-5">26</span> Cadena metalmecánica
+          th.pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">11</span> Cadena alimentos concentrados o balanceados
+          th(style="border-right: none;").pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">26</span> Cadena metalmecánica
         tr
-          th
-            p.mb-0 <span class="fw-bold text-center pe-5">12</span> Cadena cerveza, malta y licores
-          th(style="border-right: none")
-            p.mb-0 <span class="fw-bold text-center pe-5">27</span> Cadena maquinaria y equipo eléctrico
+          th.pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">12</span> Cadena cerveza, malta y licores
+          th(style="border-right: none;").pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">27</span> Cadena maquinaria y equipo eléctrico
         tr
-          th
-            p.mb-0 <span class="fw-bold text-center pe-5">13</span> Cadena textil - confecciones
-          th(style="border-right: none")
-            p.mb-0 <span class="fw-bold text-center pe-5">28</span> Cadena aparatos electrodomésticos
+          th.pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">13</span> Cadena textil - confecciones
+          th(style="border-right: none;").pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">28</span> Cadena aparatos electrodomésticos
         tr
-          th
-            p.mb-0 <span class="fw-bold text-center pe-5">14</span> Cadena madera y muebles de madera
-          th(style="border-right: none")
-            p.mb-0 <span class="fw-bold text-center pe-5">29</span> Cadena electrónica y equipos de telecomunicaciones
+          th.pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">14</span> Cadena madera y muebles de madera
+          th(style="border-right: none;").pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">29</span> Cadena electrónica y equipos de telecomunicaciones
         tr
-          th
-            p.mb-0 <span class="fw-bold text-center pe-5">15</span> Cadena pulpa, papel e industria gráfica
-          th(style="border-right: none")
-            p.mb-0 <span class="fw-bold text-center pe-5">30</span> Cadena automotor
+          th.pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">15</span> Cadena pulpa, papel e industria gráfica
+          th(style="border-right: none;").pe-3
+            p.mb-0.d-flex <span class="fw-bold text-center pe-5">30</span> Cadena automotor
     img(src="@/assets/curso/tema3/decorador.svg" style="max-height: 10px; max-width: 84px; transform: rotate(180deg)").ms-auto.mb-5
 
     .d-flex.mb-5.pb-3

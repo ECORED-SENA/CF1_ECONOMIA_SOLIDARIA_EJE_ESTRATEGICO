@@ -55,7 +55,7 @@
         data-aos="fade-right"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0(data-aos="fade-left") En una mirada global, los Objetivos de Desarrollo Sostenible, O.D.S., definidos por la Organización de Naciones Unidas, O.N.U., (Organización de las Naciones Unidas, s.f.), determinan en su objetivo N.8, “Promover el crecimiento económico inclusivo y sostenible, el empleo y trabajo decente para todos”. De tal manera, que las empresas con la extracción, producción, transformación, comercialización de bienes y prestación de servicios contribuyen significativamente al desarrollo económico de los pueblos y por consiguiente al empleo y trabajo decente para los ciudadanos. 
+        p.mb-0(data-aos="fade-left") En una mirada global, los Objetivos de Desarrollo Sostenible, O.D.S., definidos por la Organización de Naciones Unidas, O.N.U., (Organización de las Naciones Unidas, s.f.), determinan en su objetivo N.8, “Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos en América Latina y el Caribe”. De tal manera, que las empresas con la extracción, producción, transformación, comercialización de bienes y prestación de servicios contribuyen significativamente al desarrollo económico de los pueblos y por consiguiente al empleo y trabajo decente para los ciudadanos. 
 
     .container-img-text.mb-5
       img(src="@/assets/curso/tema1/decorador2.svg" style="max-width: 36px" data-aos="fade-right").me-4

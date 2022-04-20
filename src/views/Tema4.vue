@@ -116,7 +116,9 @@
     .d-flex.flex-wrap.flex-md-nowrap.justify-content-between.align-items-center.mb-5
       p.mb-4.mb-md-0 Los once principios regulados por la ley se exponen en la siguiente figura:
       img(src="@/assets/curso/tema2/decorador4.svg" data-aos="flip-up" style="max-width: 132px").mx-3.mx-md-4.ms-auto
-
+    .d-flex.mb-5
+      img(src="@/assets/curso/introduccion/punto.svg" style="max-width: 10px").me-3
+      p.fw-bold.mb-0 Figura 7
     img(src="@/assets/curso/tema4/img_t_4-11.png" data-aos="zoom-in").mb-5
 
     img(src="@/assets/curso/tema2/decorador5.svg" data-aos="fade-left" style="max-width: 84px; transform: rotate(180deg)").mb-4.ms-auto
