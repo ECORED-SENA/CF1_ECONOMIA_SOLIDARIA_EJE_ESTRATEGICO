@@ -2,10 +2,6 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    .titulo-principal.color-primario
-      .titulo-principal__numero
-        span(style="color: white") D
-      h1 Síntesis
 
     .texto-sintesis.mb-5
       p A continuación, se presentan de forma gráfica las temáticas trabajadas en este componente:
